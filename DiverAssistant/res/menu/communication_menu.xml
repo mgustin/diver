@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<item android:id="@+id/connect_communication"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/connect_comm"
+          android:showAsAction="ifRoom|withText" 
+          />
+    <item android:id="@+id/connect_depth_sensor"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/connect_depth"
+          android:showAsAction="ifRoom|withText" 
+          />
+</menu>
